@@ -1,0 +1,3 @@
+Utilizando CSS Media Queries
+
+Clique o link http://www.devmedia.com.br/utilizando-css-media-queries/27085 para abrir o recurso.
